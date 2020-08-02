@@ -1,0 +1,88 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Curriculum  Vitae</h1>
+  <h3>MUHAMMAD SAJJAD S/O MUHAMMAD AKHTAR</h3>
+  <h4>Address: A / 160, Hazara colony kalapull c/o subhani tea store near Pak Railway School Karachi.</h4>
+<h4>Contact # 0346-2571047, 0331-6079103
+           E mail: sajjad.roshan83@gmail.com</h4>
+
+  
+  <hr />
+  <br>
+  <p class="head">Object</p>
+  <h4>
+    Seeking a responsible and challenging position in a growth oriented progressive organization where my experience and skills will significantly contribute to the overall success of the organization and provide opportunities for my career growth. I have 07 years’ experience as a Web Developer, Designer, 
+ Marketing Strategist and Analyst. I am professional Social Media and Digital Marketing Specialist. I have highly skills about Digital Marketing and Digital Technology.
+  </h4>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Digital Marketing</li>
+    <li>Graphic Designing</li>
+    <li>E-Commerce Management</li>
+    <li>AutoCAD</li>
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Design</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Designing</li>
+    <li>Digital Marketing</li>
+    <li>Graphic Designingg</li>
+    <li>AutoCAD</li>
+    <li>	Interior & Exterior designing in 3D Max and also certificates collected from Solo Learn (Australia</li>
+    <li> Search Engine Optimization</li>
+    <li>Search Engine Marketing</li>
+    <li>	Word Press </li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <li> BS Computer Science 
+Continues at IQRA University Main Campus Karachi in progress.
+ </li>
+    <li> F. Sc. (Pre-Eng.) 
+Bahria College Karachi M.T Khan Road in 2014. 
+ </li>
+    <li> Matric (Science) 
+Pakistan Navy School SRE Saber Karachi Pakistan in 2011.
+ </li>
+    <li>Codeacademy</li>
+  </ul>
+  <p class="head">Experiences</p>
+  <ul>
+    <li>Designer Studio X as a Digital Marketer at Iqra University</li>
+    <li>Physics & Mathematics Faculty at Niazi Grammar School </li>
+    <liCustom Factor as a Search Engine Optimizer  </li>
+    <li>Physics & Mathematics Faculty at Defence View School </li>
+    <li> Ummah Charity International as a Digital Marketer (Freelancer)</li>
+    
+    <li>	Global Goals Foundation as a Digital Marketer (Freelancer)</li>
+    <li>3 Years Senior Developer Manager at Roshan Constructions</li>
+    <li>3 Years Coordinator / Faculty in Jadeed Iqra Academy</li>
+    <li>2.5 Years Organization Head in Nasir Coaching Centre & Adamjee Coaching</li>
+    <li>Teaching in Standard Coaching Centre </li>
+    <li>Own Coaching Centre (Private Tuitions)</li> 
+
+  </ul>
+  <p class="head">Reports & Projects</p>
+  <ul>
+    <li>Object Oriented Programming</li>
+    <li>Embedded System</li>
+    <li>Digital Computer Logic</li>
+    
+     <p class="head">Skill</p>
+  <ul>
+    <li>Team-player with excellent communication skills/li>
+    <li>Motivated self-starter with a strong desire to learn</li>
+    <li>Professional appearance, attitude and demeanor</li>
+    <li>Debating & Acting in Youth Parliament</li>
+    <li>Flexible, reliable and dependable hard-worker</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Iqra University GitHup Assignment</h2></div>
